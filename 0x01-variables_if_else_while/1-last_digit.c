@@ -8,7 +8,7 @@
  * Description: 'printing last dift of number'
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	int n;
 	int a;
