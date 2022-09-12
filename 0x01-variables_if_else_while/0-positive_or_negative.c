@@ -3,7 +3,11 @@
 /* more headers goes there */
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - Entry point
+ * Description: 'a program that indicates if a number is positive, negative or zero'
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
