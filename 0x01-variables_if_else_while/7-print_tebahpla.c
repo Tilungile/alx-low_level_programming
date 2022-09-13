@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry pony
+ * main - Entry point
+ * Description: 'alphabet in reverse'
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
