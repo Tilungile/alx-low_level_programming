@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  * Description: 'printing all alphabets in lowercase'
  *Return: Always 0 (Success)
