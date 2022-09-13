@@ -2,7 +2,7 @@
 
 /*
  * main - Entry point
- * Desrciption: 'printing all alphabets in lowercase'
+ * Description: 'printing all alphabets in lowercase'
  *Return: Always 0 (Success)
  */
 int main(void)
